@@ -11,6 +11,9 @@
   <a href="[your-twitter-URL](https://twitter.com/akashkumar404/)">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="[your-portfolio-URL](https://akashkumar-404.github.io/akashkumargupta.github.io/)">
+    <img src="https://static.wixstatic.com/media/809fa5_c02c7069a7f246ed986e103ade08b3d1~mv2.gif" alt="Portfolio"/>
+  </a>
   <img src="https://komarev.com/ghpvc/?username=akashkumar-404&style=flat-square&color=blue" alt=""/>
 </div>
 <h1>
