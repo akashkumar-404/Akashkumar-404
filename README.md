@@ -55,6 +55,6 @@ https://github-readme-streak-stats.herokuapp.com/?user=akashkumar-404
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akashkumar-404&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashkumar-404&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ### :writing_hand: Blog Posts :
-<a href="[https://www.buymeacoffee.com/dashboard](https://www.buymeacoffee.com/akashkumar404?new=1)">
+<a href="https://www.buymeacoffee.com/akashkumar404?new=1">
 <img src ="https://media0.giphy.com/media/513lZvPf6khjIQFibF/200w.gif?cid=82a1493b4455jidecw4tg41v3j9vjqgypx4n1cs8k2svkcqx&rid=200w.gif&ct=s"/>
   </a>
