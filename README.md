@@ -26,7 +26,7 @@
 
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- 🔭 I’m currently working on ...Masai School
+- 🔭 I’m currently working in ...Methodworks Pvt Ltd
 - 🌱 I’m currently learning ...Frontend Developing
 - 👯 I’m looking to collaborate on ...React
 - 🤔 I’m looking for help with ...react.js
